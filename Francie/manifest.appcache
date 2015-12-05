@@ -1,0 +1,18 @@
+CACHE MANIFEST
+# serial number = 6
+# time stamp = Mon 23 Nov 2015 11:47:23 AEDT
+CACHE:
+# files
+/favicon.ico
+/apple-touch-icon.png
+/apple-touch-icon-precomposed.png
+/iphone.css
+/desktop.css
+# pages
+/Home
+/SiteMap
+/Config
+NETWORK:
+*
+FALLBACK:
+/ /offline.html
